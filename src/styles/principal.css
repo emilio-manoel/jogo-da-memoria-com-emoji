@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: rgb(64, 64, 230);
+}
+h2{
+    color: white;
+}
+
+.container{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    background: rgb(51, 48, 48);
+    border-radius: 13px;
+    padding: 60px 40px;
+}
