@@ -45,7 +45,6 @@ h2 {
 }
 
 .game{
-  border: 2px solid white;
   width: 430px;
   height: 430px;
   display: flex;
