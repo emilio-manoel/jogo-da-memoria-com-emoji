@@ -9,3 +9,4 @@ Esse desafio foi com auxilio de video aulas, que na primeira versão promove uma
 <br>
 
 link do projeto para se divertir: https://emilio-manoel.github.io/jogo-da-memoria-com-emoji/
+quem ajudou a fazer: https://web.dio.me/track/f31d0ec6-b46a-47d6-b5ec-5dcd3766dacb
